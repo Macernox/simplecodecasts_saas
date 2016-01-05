@@ -10,4 +10,21 @@
     color: #8a6d3b;
     background-color: #fcf8e3;
     border-color: #faebcc;
+    border-radius: 10px;
+    border: 1px solid;
+}
+
+#error_explanation {
+    color: #a94442;
+    background-color: #f2dede;
+    border-color: #ebccd1;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid;
+    
+}
+
+#error_explanation h2 {
+    font-size: 25px;
+    text-align: center;
 }
